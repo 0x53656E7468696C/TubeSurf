@@ -1,6 +1,6 @@
 # TubeSurf
 
-![TubeSurf Logo](assets/icon.png)
+![TubeSurf Logo](https://github.com/0x53656E7468696C/TubeSurf/blob/main/assets/Icon.png)
 
 **TubeSurf** is a sleek, cross-platform YouTube web wrapper built with Flutter’s InWebView. Enjoy a distraction-free viewing experience on macOS and Android with advanced features tailored for each platform.
 
