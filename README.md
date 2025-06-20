@@ -10,15 +10,17 @@
 
 ### macOS
 
-* **Ad Blocking:** Blocks invasive ads for uninterrupted playback.
+* **Reduced Ads:** Experience significantly fewer ads (not completely ad-free).
 * **Lightweight:** Minimal resource usage keeps your Mac running smoothly.
+* **SideBar:** A blur sidebar for easy navigation.
+
 
 ### Android
 
 * **Picture-in-Picture (PiP) Mode:** Continue watching videos while multitasking.
 * **Queue Management:** Add videos to a queue for seamless binge-watching.
 * **Reduced Ads:** Experience significantly fewer ads (not completely ad-free).
-* * **Lightweight:** Minimal resource usage keeps your Mac running smoothly.
+* **Lightweight:** Minimal resource usage keeps your Mac running smoothly.
 
 ---
 
