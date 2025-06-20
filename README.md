@@ -24,6 +24,11 @@
 
 ---
 
+
+![ON MACOS](assets/scr.png)
+
+
+
 ## 🚀 Installation
 
 ### Prerequisites
